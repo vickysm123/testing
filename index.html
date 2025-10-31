@@ -28,28 +28,23 @@
     <link href="css/magnific-popup.css" rel="stylesheet" />
     <link href="css/animate.css" rel="stylesheet" />
     <link href="css/all.min.css" rel="stylesheet" media="screen" />
+   
     <link
       rel="preload"
       as="image"
-      href="images/banner-large1b.webp"
-      type="image/webp"
-    />
-    <link
-      rel="preload"
-      as="image"
-      href="images/banner-large2a.webp"
+      href="images/banner-large2a.webp" fetchpriority="high"
       type="image/webp"
     />
         <link
       rel="preload"
       as="image"
-      href="images/banner-iphone1b.webp"
+      href="images/banner-iphone1b.webp" fetchpriority="high"
       type="image/webp"
     />
        <link
       rel="preload"
       as="image"
-      href="images/banner-iphone2b.webp"
+      href="images/banner-iphone2b.webp" fetchpriority="high"
       type="image/webp"
     />
     <link
@@ -57,7 +52,12 @@
       href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
     />
     
-    <link rel="stylesheet" href="style.css" />
+    <link rel="preload" href="/style.css" as="style" onload="this.rel='stylesheet'">
+
+<noscript>
+  <link rel="stylesheet" href="/style.css">
+ 
+</noscript>
   </head>
   <body>
     <nav class="navbar navbar-expand-lg bg-white sticky-top">
@@ -116,13 +116,13 @@
           <picture>
             <source
               media="(max-width: 768px)"
-              srcset="images/banner-iphone2b.webp"
+              srcset="images/banner-iphone2b.webp "
             />
 
             <img
               src="images/banner-large2a.webp"
               class="d-block w-100 carousel-img"
-              alt="Luxury Villas"
+              alt="Luxury Villas" 
             />
           </picture>
         </div>

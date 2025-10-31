@@ -1174,6 +1174,7 @@ ul {
     width: 150px;
     height: auto;
   }
+  
 }
 @media (max-width: 991px) {
   .navbar-collapse {

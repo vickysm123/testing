@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+	<title>spacious</title>
+	<defs>
+		<image  width="40" height="37" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAlCAMAAAAHvluBAAAAAXNSR0IB2cksfwAAAeZQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////GSMnDwAAAKJ0Uk5TAAIUTDQEAChtyKNACwVHue77+dN2GhuI3vrBWozo9rRNCKLvAwxf2P7mWR3W//FlAR+y/fRmJHS9Bhx848A+Ger4tTsOdcVhCXDQ9TYifvc455xuzrtDRPLimgppDzGooSF64EIYgtezE2DcKZ+JLX/hgfMqZPwrVyBWP2oSB+RJzMOHXVGmxlwVz65Vjz24JViKyR6EzZJblt9v5YDprHsQtx1GxAAAAgVJREFUeJxjZEAHjGDwC0MYXYCVCazwCyGFvIxQ8Bq/QjFGBLiPR6Eo73eun69lIQpv/8apUBus4AKQZQhinMau0ICN8flv+ct6x8E8K0bGqzqMz29jKmS0O20GNOXhHag2EcbvHyUZPx1HV+gBVPSJ/88OJLt8GM8b7XbbgKrQ953YB8GPby+geM2Fn/GBIuP630gKw3/d0d4viaoMBMScrzDobvoCUxi9QoVNWIZxMYY6BoY4xnNP/Le++Q9SyBrDyLjWn3XhbyzqGAxMGRnPmiyz2sHAmMk4303miOQObMrAIIfxHp8o4yTGAsaFYTveYKQBBGCLFlwWfZSJMZ1nfVDvf9zqgIAn8zgw/MOU5vGFMnb8w6ksfI0iYxgwlHkLmxTFPBgbcCpsZJzySsX8Kih4eMpX+bYhZBhr+38iJXCH5/ynGCDhiKKQVVDDjbGpvImQQlY75y6Jj3mMjLW/8CpkDNOeHiHI8XJu2Jx/eBVmKk32Urn6V/80t3jPL3wK+5ZFMy64wFb+eZ3jv8X4FE5cFJ8PCn1nDQ3GHHwKWz7JZ4NonwdZj9tHFZKsMAuavxnvwhTmMf6FCE37CVeoGLj7cQ9EtISxJxlEx+n0t0JTxfSfrOehChmZM+UYoOARXyuIil09/Q1MSLTxPlQhA6NzLEx08Ulw6jaQiISJMCwHZ2UADIr0hdZdo3YAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="2"/>
+</svg>
